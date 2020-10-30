@@ -201,7 +201,7 @@
 			"location": "https://raw.githubusercontent.com/Botched1/Hubitat/master/packages/repository.json"
 		},
 		{
-			"name": "Hubitat Powerley",
+			"name": "bchubitat",
 			"location": "https://raw.githubusercontent.com/bcastellucci/hubitat/main/powerley/packageManifest.json"
 		}	
 	],
